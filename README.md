@@ -1,6 +1,12 @@
 # Sharpminds Games Task 2
 
-This template should help get you started developing with Vue 3 in Vite.
+A optimization based task with the goal of having 500 png images flying across the screen,
+
+## Notes
+
+this is my first time playing around with vue based on the comment from the first task i thought i would give it a shot.
+
+Also i know my solution could technically be optimized bit more by switching the way i handle the animation. Instead of js building the next animation key frame based on the images "collision" with the bounding box i could have made it just a simple css animation but this solution just felt better in my personal opinion so i just kinda ran with it.
 
 ## Recommended IDE Setup
 
