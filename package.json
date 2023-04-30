@@ -1,0 +1,26 @@
+{
+  "name": "sharpminds-games-task-2",
+  "version": "1.0.0",
+  "description": "A optamization focuesed project",
+	"keywords": ["optmization", "sharpminds", "png"],
+  "author": "Quin Partridge",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CapnQwan/Sharpminds-games-task2"
+  },
+  "private": false,
+  
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4"
+  }
+}
